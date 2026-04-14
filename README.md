@@ -1,4 +1,4 @@
-#🚦 Project Status: Active Development
+# 🚦 Project Status: Active Development
 # LiteSpeak 🚀
 
 LiteSpeak is a lightweight, high-performance communication platform designed for gamers and power users. It focuses on minimal resource consumption and ultra-low latency, ensuring your hardware power stays where it matters: in your game.
